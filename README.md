@@ -1,1 +1,1 @@
-# BIT
+# Greenwich Final Project
